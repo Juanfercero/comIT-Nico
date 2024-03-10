@@ -1,0 +1,24 @@
+.light_bg {
+    background-color: #F2F5EA;
+    color: #2C363F;
+}
+
+.cool_bg {
+    background-color: #2C363F;
+    color: #F2F5EA;
+}
+
+.bg-primary{
+    background-color: #F2F5EA;
+}
+
+.block{
+    display: flex;
+}
+
+.services{
+    display: flex;
+    justify-content: space-around;
+    border-top: 1px solid tomato;
+}
+
