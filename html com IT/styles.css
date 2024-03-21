@@ -1,11 +1,13 @@
 .light_bg {
     background-color: #F2F5EA;
     color: #2C363F;
+    margin: 0px;
 }
 
 .cool_bg {
     background-color: #2C363F;
     color: #F2F5EA;
+    margin: 0px;
 }
 
 .bg-primary{
@@ -19,6 +21,12 @@
 .services{
     display: flex;
     justify-content: space-around;
-    border-top: 1px solid tomato;
 }
 
+
+.plus-jakarta sans-body{
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
