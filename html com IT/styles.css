@@ -38,6 +38,11 @@
     padding-bottom: 90px;
 }
 
+.title2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 .imagePage1 {
     width: 60%;
     padding-left: 100px;
@@ -50,4 +55,23 @@
     padding-left: 200px;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+
+/*-------------------------------------------------  PAGE 3 ------------------------------------------------*/
+
+.imagePage3 {
+    width: 30%;
+    display: flex;
+    flex: center;
+    padding-left: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.pad-bot {
+    padding-bottom: 10px;
+}
+
+.pad-bot2 {
+    padding-bottom: 20px;
 }
